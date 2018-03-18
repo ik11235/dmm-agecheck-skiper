@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        DMM-agecheck-skiper
-// @namespace   ik-fib.com
+// @namespace   https://ik-fib.com/
 // @description This script doing DMM age check page auto redirect.
 // @include     https://www.dmm.com/age_check/*
 // @version     1
